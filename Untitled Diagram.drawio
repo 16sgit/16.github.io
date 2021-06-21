@@ -1,1 +1,169 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T13:47:25.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="GVm9N8tX8mVbN1L796pr" version="14.7.10" type="github"><diagram id="QWmPcWTleGatWilCuJVK" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-21T13:51:18.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="8G6NW7wjmalRpKCgr4Jg" version="14.7.10" type="github">
+  <diagram id="QWmPcWTleGatWilCuJVK" name="Page-1">
+    <mxGraphModel dx="2426" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-6" value="client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="40" width="100" height="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-7" value="rpc-api" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="40" width="100" height="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-8" value="cmcc" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="40" width="100" height="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-86" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="EtGpCTok_ZsKIdkG2lzh-8" vertex="1">
+          <mxGeometry x="-155" y="640" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-87" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="EtGpCTok_ZsKIdkG2lzh-8" vertex="1">
+          <mxGeometry x="44" y="640" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-88" value="get sigkey by appid" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="EtGpCTok_ZsKIdkG2lzh-8" target="EtGpCTok_ZsKIdkG2lzh-87" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150.07142857142867" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-89" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="EtGpCTok_ZsKIdkG2lzh-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-143" y="716" as="targetPoint" />
+            <mxPoint x="37" y="716" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-91" value="check sign" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="EtGpCTok_ZsKIdkG2lzh-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="760" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-120" y="760" />
+            </Array>
+            <mxPoint x="-145" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-92" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="EtGpCTok_ZsKIdkG2lzh-8" vertex="1">
+          <mxGeometry x="-155" y="880" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-93" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="EtGpCTok_ZsKIdkG2lzh-8" vertex="1">
+          <mxGeometry x="44" y="880" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-94" value="sync notice data" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="EtGpCTok_ZsKIdkG2lzh-8" target="EtGpCTok_ZsKIdkG2lzh-93" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150.07142857142867" y="880" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-95" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="EtGpCTok_ZsKIdkG2lzh-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-143.00000000000023" y="956" as="targetPoint" />
+            <mxPoint x="36.99999999999977" y="956" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-96" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="EtGpCTok_ZsKIdkG2lzh-8" vertex="1">
+          <mxGeometry x="-155" y="1050" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-97" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="EtGpCTok_ZsKIdkG2lzh-8" vertex="1">
+          <mxGeometry x="44" y="1050" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-98" value="update&amp;nbsp;app_sequence version&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="EtGpCTok_ZsKIdkG2lzh-8" target="EtGpCTok_ZsKIdkG2lzh-97" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150.07142857142867" y="1050" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-99" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="EtGpCTok_ZsKIdkG2lzh-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-143.00000000000023" y="1126" as="targetPoint" />
+            <mxPoint x="36.99999999999977" y="1126" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Request" id="EtGpCTok_ZsKIdkG2lzh-14">
+          <mxCell style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;" parent="1" target="EtGpCTok_ZsKIdkG2lzh-7" edge="1">
+            <mxGeometry width="80" relative="1" as="geometry">
+              <mxPoint x="85" y="160" as="sourcePoint" />
+              <mxPoint x="265" y="160" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="115" y="160" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-17" value="path:v1.0/notice/sync" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="160" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-18" value="appid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="150" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-19" value="sign" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="150" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="75" y="120" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-40" value="post_data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="135" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-41" value="get_data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="140" y="240" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="265" y="280" width="10" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-45" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="464" y="280" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-46" value="get white ip by appid" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" source="EtGpCTok_ZsKIdkG2lzh-7" target="EtGpCTok_ZsKIdkG2lzh-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-47" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="277" y="356" as="targetPoint" />
+            <mxPoint x="457" y="356" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-64" value="agent" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="40" width="100" height="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-65" value="redis" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="820" y="40" width="100" height="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-67" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;Check whether it is a white ip&lt;/span&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="300" y="400" />
+            </Array>
+            <mxPoint x="275" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-81" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="464" y="480" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-82" value="get permissions by appid" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" target="EtGpCTok_ZsKIdkG2lzh-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="269.92857142857133" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-83" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="277" y="556" as="targetPoint" />
+            <mxPoint x="457" y="556" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-85" value="check appid has permission" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="590" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="305" y="590" />
+            </Array>
+            <mxPoint x="280" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EtGpCTok_ZsKIdkG2lzh-101" value="success" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" target="EtGpCTok_ZsKIdkG2lzh-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1200" as="sourcePoint" />
+            <mxPoint x="100" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
